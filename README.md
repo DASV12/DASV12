@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on my 3D printing start-up.
-- 🌱 I’m currently learning robotics, software development, ML & AL.
-- 👯 I’m looking to work with robotics companies.
+- 🌱 I’m currently learning robotics, software development, Computer vision, ML & AI.
+- 👯 I am looking to work with robotics companies and contribute to open source projects.
 - 💬 Ask me about the physics of music, hybrid electric vehicles, robotics and life.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dasv1298/)
 - ⚡ Fun fact: I can play the violin 🎻 while riding a bicycle 🚲. 🤣
