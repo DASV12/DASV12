@@ -12,3 +12,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about the physics of music, hybrid electric vehicles, robotics and life.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dasv1298/)
 - ⚡ Fun fact: I can play the violin 🎻 while riding a bicycle 🚲. 🤣
+
+## Skills and experience
+- ROS 1-2, Gazebo (Robotics)
+- Programming (Python, C++) and embedded systems
+- Linux, Git, Docker
+- Mechanical and electronic design
+
+## Work experience
+- Jr. Robot Maintenance Engineer at [Kiwibot](https://www.kiwibot.com/)
+- Robotics Engineer at [ICRA](https://www.icra.com.co/)
