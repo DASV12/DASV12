@@ -6,10 +6,10 @@ Mechatronics engineer
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on my 3D printing start-up.
+- 💡 I am a 3D printing enthusiast.
 - 🌱 I’m currently learning robotics, software development, Computer vision, ML & AI.
 - 👯 I am looking to work with robotics companies and contribute to open source projects.
-- 💬 Ask me about the physics of music, hybrid electric vehicles, robotics and life.
+- 💬 Ask me about the physics of music, hybrid electric vehicles, robotics, and life.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dasv1298/)
 - ⚡ Fun fact: I can play the violin 🎻 while riding a bicycle 🚲. 🤣
 
